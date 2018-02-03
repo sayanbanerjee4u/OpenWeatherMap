@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeatherMap/Model/Weather.swift"
+            timestampString = "539337911.328016"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenWeatherMap.Main.__allocating_init(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; OpenWeatherMap.Main"
+                  moduleName = "OpenWeatherMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayan/Desktop/Project/OpenWeatherMap/OpenWeatherMap/Model/Weather.swift"
+                  timestampString = "539369987.412841"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenWeatherMap.Main.init(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; OpenWeatherMap.Main"
+                  moduleName = "OpenWeatherMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sayan/Desktop/Project/OpenWeatherMap/OpenWeatherMap/Model/Weather.swift"
+                  timestampString = "539369987.415864"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
